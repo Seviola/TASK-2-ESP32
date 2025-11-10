@@ -8,8 +8,8 @@ Setiap LED berkedip dengan interval berbeda :
 - Hijau    :500ms
 - Biru     :700ms
 ## Konfigurasi Pin
-|LED        |GPIO ESP32    |GND    |
-...................................
-|Merah      |      2       | GND   |
-|Hijau      |      5       | GND   |
-|Biru       |     16       | GND   |
+| LED | GPIO ESP32 | GND |
+| :--- | :---: | :---: |
+| Merah | 2 | GND |
+| Hijau | 5 | GND |
+| Biru | 16 | GND |
