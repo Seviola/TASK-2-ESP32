@@ -1,10 +1,10 @@
-// 3 LED, masing-masing task sendiri (pin sesuai gambar)
-// merah = 2, hijau = 4, biru = 5
-// merah -> Core 0 ; hijau & biru -> Core 1 (task terpisah)
+// 3 LED, masing-masing task sendiri
+// merah = 2, hijau = 5, biru = 16
+// merah -> Core 0 ; hijau & biru -> Core 1
 
 #define LED_RED   2
-#define LED_GREEN 4
-#define LED_BLUE  5
+#define LED_GREEN 5
+#define LED_BLUE  16
 
 void TaskLED_Red(void *pvParameters) {
   pinMode(LED_RED, OUTPUT);
@@ -39,15 +39,15 @@ void TaskLED_Blue(void *pvParameters) {
 void setup() {
   Serial.begin(115200);
   delay(200);
-  Serial.println("ESP32-S3: 3 LED tasks (Red=2, Green=4, Blue=5)");
+  Serial.println("ESP32-S3: 3 LED tasks (Red=2, Green=5, Blue=16)");
 
-  // Merah -> Core 0
+  // LED Merah -> Core 0
   xTaskCreatePinnedToCore(TaskLED_Red, "LED_Red", 2048, NULL, 1, NULL, 0);
 
-  // Hijau -> Core 1
+  // LED Hijau -> Core 1
   xTaskCreatePinnedToCore(TaskLED_Green, "LED_Green", 2048, NULL, 1, NULL, 1);
 
-  // Biru -> Core 1
+  // LED Biru -> Core 1
   xTaskCreatePinnedToCore(TaskLED_Blue, "LED_Blue", 2048, NULL, 1, NULL, 1);
 }
 
