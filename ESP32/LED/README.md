@@ -20,3 +20,4 @@ Setiap LED berkedip dengan interval berbeda :
 #define LED_RED     2
 #define LED_GREEN   5
 #define LED_BLUE    16
+Bagian ini berfungsi untuk mendefinisikan pin GPIO yang digunakan oleh masing-masing LED
