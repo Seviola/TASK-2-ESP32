@@ -17,9 +17,8 @@ Dengan menunjukkan cara menjalankan dua task secara paralel di ESP32-S3 satu tas
 | GND | GND | Ground umum |
 ## Hasil yang Diharapkan 
 - OLED menampilkan tulisan
-ESP32-S3 Dual Core
-Counter: <angka bertambah>
-
+  ESP32-S3 Dual Core
+  Counter: <angka bertambah>
 - Angka counter meningkat setiap detik
 - Menunjukkan pembagian tugas antara dua core prosesor ESP32-S3.
 ## Foto Hasil Simulasi
