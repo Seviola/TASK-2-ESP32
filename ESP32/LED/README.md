@@ -17,11 +17,11 @@ Setiap LED berkedip dengan interval berbeda :
 ### Kode Definisi:
 Bagian ini berfungsi untuk mendefinisikan pin GPIO yang digunakan oleh masing-masing LED
 ```c
-#define LED_RED     2
-#define LED_GREEN   5
-#define LED_BLUE    16
+define LED_RED     2
+define LED_GREEN   5
+define LED_BLUE    16
 
-'Task untuk LED Merah'
+## Task untuk LED Merah
 Task ini mengendalikan LED Merah, diatur agar berkedip dengan interval 300 ms, berjalan pada Core 0
 ```c
 void TaskLED_Red(void *pvParameters) {
