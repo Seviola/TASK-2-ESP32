@@ -22,4 +22,4 @@ Pada contoh ini, servo dihubungkan ke pin *GPIO 17*, dan pergerakannya dikontrol
 <img width="587" height="412" alt="Servo" src="https://github.com/user-attachments/assets/ad2d9994-603a-4759-8805-fb369f9433e9" />
 
 ## Video Demonstrasi
-https://drive.google.com/file/d/1YZg50b1G0y9Ui_rqaxOXHu-H3qFtbMOr/view?usp=sharing
+![Motor-Servo](https://github.com/user-attachments/assets/773ccf72-290d-4bcd-a915-505ccdba2916)
