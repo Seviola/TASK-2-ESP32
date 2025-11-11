@@ -17,5 +17,5 @@ Dengan menunjukkan cara menghasilkan suara dari buzzer aktif atau pasif mengguna
 <img width="593" height="473" alt="Buzzer" src="https://github.com/user-attachments/assets/26536714-f0ee-44cd-8036-526f956df158" />
 
 ## Video Demonstrasi
-https://drive.google.com/file/d/1hNiSyfE4Q9e6eAvovC0qp9INhx_u-0ji/view?usp=drive_link
 
+https://github.com/user-attachments/assets/600466cb-81c2-4114-b91f-324b128c32a3
