@@ -14,4 +14,5 @@ Dengan menampilkan cara menggunakan FreeRTOS multitasking pada ESP32-S3 untuk me
 <img width="338" height="432" alt="2 Push Buttom" src="https://github.com/user-attachments/assets/3db5d27d-4265-4d8f-8bd2-a1034165c3d1" />
 
 ### Video Demonstrasi
-https://drive.google.com/file/d/1GLFFcO742P14t_WABj2CZcJFS3eLlPm6/view?usp=drive_link
+![3LED](https://github.com/user-attachments/assets/0bac1c18-adc8-43ab-b01d-856eaca3524f)
+
