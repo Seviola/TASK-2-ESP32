@@ -23,5 +23,4 @@ Selain itu, tombol *SW* pada encoder dapat ditekan untuk menjalankan aksi tambah
 <img width="502" height="417" alt="Retory Encoder" src="https://github.com/user-attachments/assets/698a35f5-ea6a-49a0-8ad8-09437286daeb" />
 
 ## Video Demonstrasi
-![Retory-Encoder](https://github.com/user-attachments/assets/4ee64807-ec81-433d-a68e-4a4daea87a93)
-
+![Retory-Encoder](https://github.com/user-attachments/assets/685cf176-f3a4-473a-ba91-284c13ee440e)
