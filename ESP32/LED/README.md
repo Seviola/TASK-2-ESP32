@@ -15,10 +15,11 @@ Setiap LED berkedip dengan interval berbeda :
 | Biru | 16 | GND |
 ## Penjelasan Program 
 ## Konfigurasi Pin LED
-'''c'
-#define LED_RED   2
-#define LED_GREEN 5
-#define LED_BLUE  16
+> ```c
+> #define LED_RED   2
+> #define LED_GREEN 5
+> #define LED_BLUE  16
+> ```
  Program untuk tiga LED terhubung ke GPIO
 ## Foto Hasil Simulasi
 <img width="363" height="703" alt="3 LED" src="https://github.com/user-attachments/assets/139bdb8e-74e1-4308-9bbd-8ad39f6cfd06" />
