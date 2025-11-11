@@ -18,4 +18,4 @@ Kedua task membaca nilai potensiometer yang terhubung ke pin ADC (GPIO 4) dengan
 <img width="605" height="438" alt="Potensiometer" src="https://github.com/user-attachments/assets/1b879012-8073-41b8-a252-1f8878b42676" />
 
 ## Video Demonstrasi
-https://drive.google.com/file/d/10gdp7GRcmaB0fZP7GJle0OzZrEkcoiQT/view?usp=sharing 
+![Potensiometer](https://github.com/user-attachments/assets/7725f39d-e23d-424e-8cdc-9887d67225b4)
