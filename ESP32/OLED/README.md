@@ -25,4 +25,4 @@ Dengan menunjukkan cara menjalankan dua task secara paralel di ESP32-S3 satu tas
 <img width="737" height="677" alt="OLED" src="https://github.com/user-attachments/assets/2ab48cea-baac-4094-9209-66f92fb2897e" />
 
 ## Video Demonstrasi
-https://drive.google.com/file/d/1isDE2zEqmYDSJx6awIpXEZYNZ1_k7RO9/view?usp=drive_link
+https://github.com/user-attachments/assets/09205b13-ba4e-4e92-8a88-955aec8d8719
