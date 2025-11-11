@@ -13,14 +13,32 @@ Setiap LED berkedip dengan interval berbeda :
 | Merah | 2 | GND |
 | Hijau | 5 | GND |
 | Biru | 16 | GND |
-## Penjelasan Program 
-## Konfigurasi Pin LED
+## Task Masing-masing LED
+### TaskLED_Red (Core 0)
 > ```c
-> #define LED_RED   2
-> #define LED_GREEN 5
-> #define LED_BLUE  16
-> ```
- Program untuk tiga LED terhubung ke GPIO
+>void TaskLED_Red(void *pvParameters) {
+>  pinMode(LED_RED, OUTPUT);
+>  for (;;) {
+>    digitalWrite(LED_RED, HIGH);
+>   vTaskDelay(pdMS_TO_TICKS(300));
+>   digitalWrite(LED_RED, LOW);
+>   vTaskDelay(pdMS_TO_TICKS(300));
+> }
+>}
+> '''
+### TaskLED_Green
+> ```c
+> void TaskLED_Green(void *vParameters) {
+>  pinMode(LED_GREEN, OUTPUT);     
+> for (;;) {                      
+>   digitalWrite(LED_GREEN, HIGH);  
+>   vTaskDelay(pdMS_TO_TICKS(500)); 
+>   digitalWrite(LED_GREEN, LOW);   
+>   vTaskDelay(pdMS_TO_TICKS(500)); 
+> }
+>}
+> '''
+>
 ## Foto Hasil Simulasi
 <img width="363" height="703" alt="3 LED" src="https://github.com/user-attachments/assets/139bdb8e-74e1-4308-9bbd-8ad39f6cfd06" />
 
