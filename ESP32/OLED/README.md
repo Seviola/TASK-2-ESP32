@@ -22,7 +22,7 @@ Dengan menunjukkan cara menjalankan dua task secara paralel di ESP32-S3 satu tas
 - Angka counter meningkat setiap detik
 - Menunjukkan pembagian tugas antara dua core prosesor ESP32-S3.
 ## Foto Hasil Simulasi
-<img width="737" height="677" alt="OLED" src="https://github.com/user-attachments/assets/2ab48cea-baac-4094-9209-66f92fb2897e" />
+<img width="458" height="462" alt="OLED Hello word" src="https://github.com/user-attachments/assets/6d3983bc-8e46-4514-b42f-5c9c2afd523b" />
 
 ## Video Demonstrasi
 https://github.com/user-attachments/assets/09205b13-ba4e-4e92-8a88-955aec8d8719
