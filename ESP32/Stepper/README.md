@@ -23,4 +23,4 @@ Setiap pulsa STEP membuat motor berputar satu langkah; jumlah total langkah per 
 <img width="1091" height="822" alt="Stepper" src="https://github.com/user-attachments/assets/5eb5fe0f-8d52-4c2a-ba22-b84a142722b3" />
 
 ## Video Demonstrasi
-https://drive.google.com/file/d/1EUi25C6KQ36S5E_lXKpSbKk_Ja-mAmSn/view?usp=sharing
+![Stepper](https://github.com/user-attachments/assets/25bb7763-e30d-4abc-bafd-ba96ab1c0107)
