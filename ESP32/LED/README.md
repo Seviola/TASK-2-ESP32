@@ -15,7 +15,7 @@ Setiap LED berkedip dengan interval berbeda :
 | Biru | 16 | GND |
 ## Penjelasan Program 
 ### Konfigurasi Pin LED
-'''c'
+'''c
 #define LED_RED   2
 #define LED_GREEN 5
 #define LED_BLUE  16
